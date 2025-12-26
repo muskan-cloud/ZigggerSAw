@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Jigsaw",
+  "description": "A jigsaw puzzle game where you generate the puzzle image using a text prompt powered by the Gemini API. Choose your difficulty and solve the puzzle by dragging and dropping the pieces into place.",
+  "requestFramePermissions": []
+}
